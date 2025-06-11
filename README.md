@@ -1,1 +1,1 @@
-simples linux port scan :)
+simple linux port scan :)
